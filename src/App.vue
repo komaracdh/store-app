@@ -4,6 +4,7 @@
     
     <router-link class="btn-link" to="/products">Products</router-link>
     <router-link to="/customers">Customers</router-link>
+  <router-view/>
   </div>
   
 </template>
